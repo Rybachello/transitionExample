@@ -1,6 +1,0 @@
-module Pods_transitionExample {
-  umbrella header "Pods-transitionExample-umbrella.h"
-
-  export *
-  module * { export * }
-}
